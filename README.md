@@ -1,2 +1,2 @@
 # Stock-Program-for-e-Commerce
-This program is devoloping by me. I assume that it will have more features in future
+This program was developed by me so far. You can check the program status from the commit messages! There are still lots to do and also this project has not FINISHED yet. Even main features are almost done there are bugs in delete part and they will be solved. Except the bugs in that part lots of new features will be implemented to the project such as database or other new fetures and UI improvements. I have stop the project because it was taking so much time. I am planning to continue the project on june 2023.
